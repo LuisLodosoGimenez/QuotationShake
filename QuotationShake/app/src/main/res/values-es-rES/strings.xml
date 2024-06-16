@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CITAS</string>
+    <string name="GetQuotations">Conseguir cita</string>
+    <string name="FavouriteQuotations">Citas favoritas</string>
+    <string name="Settings">Ajustes</string>
+    <string name="About">Sobre</string>
+    <string name="QuotationShake">Refrescar cita</string>
+    <string name="RandomQuotations">Citas aleatorias</string>
+    <string name="About_texto">Citas aleatorias de \n\nLUIS LODOSO GIMÉNEZ \n\nluislodosogimenez@gmail.com  \n\n2023</string>
+    <string name="foto_perfil">FOTO PERFIL</string>
+    <string name="name_that_identifies_the_user">Nombre que identifica al usuario</string>
+    <string name="insert_your_name">Inserta tu nombre</string>
+    <string name="quotations_will_be_received_in_the_selected_language">Las citas se veran en el idioma escogido</string>
+    <string name="web_requests_will_be_performed_using_the_selected_http_method">Las citas web se mostraran usando el metodo HTTP escogido</string>
+    <string name="author_info">INFORMACIÓN DEL AUTOR</string>
+    <string name="hello_1s_npress_refresh_to_get_a_new_quotation">Hola %1s!. Pulsa refrescar para conseguir una nueva cita</string>
+    <string name="nameless_one">Sin nombre</string>
+    <string name="this_is_a_sample_quotation">Esto es un ejemplo de cita</string>
+    <string name="this_is_a_sample_autor">Esto es un ejemplo de</string>
+    <string name="idioms">Idiomas</string>
+    <string name="english">Inglés</string>
+    <string name="russian">Ruso</string>
+    <string name="yes">SI</string>
+    <string name="are_you_sure_that_you_want_to_delete_this_quotation">¿Estas seguro de que quieres borrar esta cita?</string>
+    <string name="no">NO</string>
+    <string name="add">AÑADIR</string>
+    <string name="refresh">REFRESCAR</string>
+    <string name="clear_all">Limpiar todo</string>
+    <string name="user_name">Nombre usuario</string>
+    <string name="quotation_language">Idioma de las citas</string>
+    <string name="http_request_method">Método HTTP</string>
+    <string name="databases_method">Método Databases</string>
+    <string name="nameless">\"sin nombre\"</string>
+</resources>

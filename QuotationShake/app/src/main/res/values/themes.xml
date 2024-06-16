@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practica2a" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/fondo_actionBar</item>
+        <item name="colorPrimaryDark">@color/fondo_actionBarSuperior</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Practica2a" parent="Base.Theme.Practica2a" />
+
+
+</resources>

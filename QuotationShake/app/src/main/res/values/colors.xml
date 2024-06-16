@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="violet">#EB74FF</color>
+    <color name="texto_cita">#C712E6</color>
+    <color name="violeta_suave">#947ADD</color>
+    <color name="fondo_botones">#7ABEF5</color>
+    <color name="fondo_menu">#2136B3</color>
+    <color name="fondo_actionBar">#061559</color>
+    <color name="fondo_actionBarSuperior">#03082B</color>
+
+</resources>

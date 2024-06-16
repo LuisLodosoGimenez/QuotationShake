@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name= "Idioms_entries">
+        <item>@string/english</item>
+        <item>@string/russian</item>
+    </string-array>
+    
+    <string-array name="Idioms_entryValues">
+        <item>@string/english</item>
+        <item>@string/russian</item>
+    </string-array>
+    
+    <string-array name="HTTP_entries">
+        <item>@string/get</item>
+        <item>@string/post</item>
+    </string-array>
+
+    <string-array name="HTTP_entryValues">
+        <item>@string/get</item>
+        <item>@string/post</item>
+    </string-array>
+
+    <string-array name="DATABASES_entries">
+        <item>@string/sqliteopenhelper</item>
+        <item>@string/room</item>
+    </string-array>
+
+    <string-array name="DATABASES_entryValues">
+        <item>@string/sqliteopenhelper</item>
+        <item>@string/room</item>
+    </string-array>
+    
+</resources>

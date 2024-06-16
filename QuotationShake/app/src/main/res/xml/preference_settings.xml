@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        android:title="@string/user_name"
+        android:summary="@string/name_that_identifies_the_user"
+        android:defaultValue=""
+        android:key="username"
+        />
+
+    <PreferenceCategory android:title="WEB SERVICE">
+        <ListPreference
+            android:title="@string/quotation_language"
+            android:summary="@string/quotations_will_be_received_in_the_selected_language"
+            android:entries="@array/Idioms_entries"
+            android:entryValues="@array/Idioms_entryValues"
+            android:defaultValue="@string/english"
+            android:key="idioma"/>
+
+
+        <ListPreference
+            android:title="@string/http_request_method"
+            android:summary="@string/web_requests_will_be_performed_using_the_selected_http_method"
+            android:entries="@array/HTTP_entries"
+            android:entryValues="@array/HTTP_entryValues"
+            android:defaultValue="@string/get"
+            android:key="metodo_HTTP"/>
+
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="DATABASES">
+        <ListPreference
+            android:title="@string/databases_method"
+            android:summary="@string/sqliteopenhelper_or_room"
+            android:entries="@array/DATABASES_entries"
+            android:entryValues="@array/DATABASES_entryValues"
+            android:defaultValue="@string/sqliteopenhelper"
+            android:key="metodo_DATABASES"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
